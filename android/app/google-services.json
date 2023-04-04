@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664525188118",
+    "project_id": "flutteraudi",
+    "storage_bucket": "flutteraudi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664525188118:android:6e35c0d648a1a4ff92d937",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664525188118-vv5a8uip3j4o2objrlrkscdhh0ehvq25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOTNj94yecVQ25z-YPQNmUqmCEPEYnwOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664525188118-vv5a8uip3j4o2objrlrkscdhh0ehvq25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
